@@ -1,0 +1,60 @@
+.modalWrapper{
+    box-sizing: border-box;
+    position: absolute;
+    width:100vw;
+    height:100vh;
+    background-color: rgba(0,0,0,0.6);
+    display: none;
+}
+.modal{
+    box-sizing: border-box;
+    height: 80vh;
+    width:30%;
+    top:5%;
+    right: 5%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+}
+
+.visible{
+    display: block;
+}
+
+.modal_content p{
+    padding:10px;
+    background-color: rgba(0,0,0,0.15);
+    color: brown;
+}
+
+.modal_content{
+    box-sizing: border-box;
+    flex:1;
+    padding: 10px;
+    overflow: scroll;
+}
+
+.modal_controls{
+    box-sizing: border-box;
+    background-color: white;
+    color:red;
+    font-weight: bold;
+    width:150px;
+    height:40px;
+    align-self: flex-end;
+    cursor: pointer;
+}
+
+
+@media only screen and (max-width:600px){
+
+    .modal_controls{
+        width:50px;
+    }
+
+    .modal{
+        right: auto;
+        width:100%;
+    }
+}
