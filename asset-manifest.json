@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/colorFizzBuzz/static/css/main.364efa85.chunk.css",
+    "main.js": "/colorFizzBuzz/static/js/main.83b8d36b.chunk.js",
+    "main.js.map": "/colorFizzBuzz/static/js/main.83b8d36b.chunk.js.map",
+    "runtime-main.js": "/colorFizzBuzz/static/js/runtime-main.a7d47e99.js",
+    "runtime-main.js.map": "/colorFizzBuzz/static/js/runtime-main.a7d47e99.js.map",
+    "static/js/2.d7ac690b.chunk.js": "/colorFizzBuzz/static/js/2.d7ac690b.chunk.js",
+    "static/js/2.d7ac690b.chunk.js.map": "/colorFizzBuzz/static/js/2.d7ac690b.chunk.js.map",
+    "static/js/3.68e9ed55.chunk.js": "/colorFizzBuzz/static/js/3.68e9ed55.chunk.js",
+    "static/js/3.68e9ed55.chunk.js.map": "/colorFizzBuzz/static/js/3.68e9ed55.chunk.js.map",
+    "index.html": "/colorFizzBuzz/index.html",
+    "static/css/main.364efa85.chunk.css.map": "/colorFizzBuzz/static/css/main.364efa85.chunk.css.map",
+    "static/js/2.d7ac690b.chunk.js.LICENSE.txt": "/colorFizzBuzz/static/js/2.d7ac690b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/colorFizzBuzz/static/media/bg.b12d7f95.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7d47e99.js",
+    "static/js/2.d7ac690b.chunk.js",
+    "static/css/main.364efa85.chunk.css",
+    "static/js/main.83b8d36b.chunk.js"
+  ]
+}
