@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/colorFizzBuzz/static/css/main.364efa85.chunk.css",
-    "main.js": "/colorFizzBuzz/static/js/main.83b8d36b.chunk.js",
-    "main.js.map": "/colorFizzBuzz/static/js/main.83b8d36b.chunk.js.map",
+    "main.js": "/colorFizzBuzz/static/js/main.627e06b9.chunk.js",
+    "main.js.map": "/colorFizzBuzz/static/js/main.627e06b9.chunk.js.map",
     "runtime-main.js": "/colorFizzBuzz/static/js/runtime-main.a7d47e99.js",
     "runtime-main.js.map": "/colorFizzBuzz/static/js/runtime-main.a7d47e99.js.map",
     "static/js/2.d7ac690b.chunk.js": "/colorFizzBuzz/static/js/2.d7ac690b.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a7d47e99.js",
     "static/js/2.d7ac690b.chunk.js",
     "static/css/main.364efa85.chunk.css",
-    "static/js/main.83b8d36b.chunk.js"
+    "static/js/main.627e06b9.chunk.js"
   ]
 }
